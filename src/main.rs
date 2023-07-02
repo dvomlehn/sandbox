@@ -1,3 +1,4 @@
+// Code demonstrating a value that escapes a function
 use std::error::Error;
 use std::fmt;
 use std::fs::read_to_string;
